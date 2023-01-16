@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Etiquetado</folder>
+	<filename>20.PNG</filename>
+	<path>C:\Users\diemayba\Desktop\resolucion\Etiquetado\20.PNG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>D40</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>66</xmin>
+			<ymin>581</ymin>
+			<xmax>171</xmax>
+			<ymax>629</ymax>
+		</bndbox>
+	</object>
+</annotation>

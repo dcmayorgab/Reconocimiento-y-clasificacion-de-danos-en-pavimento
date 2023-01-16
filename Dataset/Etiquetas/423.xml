@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Etiquetado</folder>
+	<filename>423.PNG</filename>
+	<path>C:\Users\diemayba\Desktop\resolucion\Etiquetado\423.PNG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>D00</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>278</xmin>
+			<ymin>446</ymin>
+			<xmax>291</xmax>
+			<ymax>580</ymax>
+		</bndbox>
+	</object>
+</annotation>

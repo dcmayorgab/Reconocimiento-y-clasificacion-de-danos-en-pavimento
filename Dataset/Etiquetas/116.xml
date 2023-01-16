@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Etiquetado</folder>
+	<filename>116.PNG</filename>
+	<path>C:\Users\diemayba\Desktop\resolucion\Etiquetado\116.PNG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>D00</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>246</xmin>
+			<ymin>482</ymin>
+			<xmax>258</xmax>
+			<ymax>544</ymax>
+		</bndbox>
+	</object>
+</annotation>
